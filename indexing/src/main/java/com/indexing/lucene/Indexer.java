@@ -36,6 +36,7 @@ public class Indexer {
             
             IndexWriterConfig config = new IndexWriterConfig(analyzer);
             config.setCodec(new SimpleTextCodec());
+            config.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
 
             try (IndexWriter writer = new IndexWriter(directory, config);
                  Stream<Path> files = Files.walk(documentsPath)) {
