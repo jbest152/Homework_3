@@ -40,8 +40,12 @@ public class Searcher {
                         .document(scoreDoc.doc);
 
                 System.out.println("\n-------------------------");
-                System.out.println("Filename: " + document.get(IndexFields.FILE_NAME));
-                System.out.println("Content: " + document.get(IndexFields.CONTENT));
+                if (query.toString().contains(IndexFields.FILE_NAME)) {
+                    System.out.println("Filename: " + document.get(IndexFields.FILE_NAME));
+                } 
+                else if (query.toString().contains(IndexFields.CONTENT)) {
+                    System.out.println("Content: " + document.get(IndexFields.CONTENT));    
+                }
                 System.out.println("Score: " + scoreDoc.score);
             }
         }
