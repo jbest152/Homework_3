@@ -109,36 +109,36 @@ public class Tester {
                 Set.of()));
 
                         // ---------- Term query ----------
-        cases.add(new TestCase("term: lemon",
+        cases.add(new TestCase("content: lemon",
                 QueryFactory.termQuery(c, "lemon"),
                 Set.of("recipe_lemon_pasta.txt")));
 
-        cases.add(new TestCase("term: telescope",
+        cases.add(new TestCase("content: telescope",
                 QueryFactory.termQuery(c, "telescope"),
                 Set.of("AstronomyCometTracking.txt", "AstronomyJupiterMoons.txt",
                        "AstronomyLunarCraters.txt", "AstronomyMilkyWay.txt",
                        "AstronomySolarEclipse.txt")));
 
-        cases.add(new TestCase("term: nutmeg",
+        cases.add(new TestCase("content: nutmeg",
                 QueryFactory.termQuery(c, "nutmeg"),
                 Set.of("recipe_chicken_curry.txt", "recipe_chocolate_cake.txt",
                        "recipe_greek_salad.txt", "recipe_lemon_pasta.txt",
                        "recipe_mushroom_risotto.txt", "recipe_tomato_sauce.txt")));
 
-        cases.add(new TestCase("term: camera",
+        cases.add(new TestCase("content: camera",
                 QueryFactory.termQuery(c, "camera"),
                 Set.of("travel-bali-beaches.txt", "travel-iceland-road-trip.txt",
                        "travel-kyoto-temples.txt", "travel-morocco-markets.txt",
                        "travel-new-york-in-winter.txt", "travel-scottish-highlands.txt")));
 
-        cases.add(new TestCase("term: gloves",
+        cases.add(new TestCase("content: gloves",
                 QueryFactory.termQuery(c, "gloves"),
                 Set.of("home-assemble-desk.txt", "home-fix-squeaky-door.txt",
                        "home-install-shelves.txt", "home-insulate-attic.txt",
                        "home-paint-walls.txt", "home-replace-light-switch.txt",
                        "home-seal-windows.txt", "home-unclog-drain.txt")));
 
-        cases.add(new TestCase("term: patience",
+        cases.add(new TestCase("content: patience",
                 QueryFactory.termQuery(c, "patience"),
                 Set.of("EmailContractRenewal.txt", "EmailEventInvitation.txt",
                        "EmailFeedbackRequest.txt", "EmailHolidaySchedule.txt",
@@ -148,7 +148,7 @@ public class Tester {
                        "Gardening - Succulent Care.txt", "Gardening - Tomato Growing.txt",
                        "Gardening - Winter Mulching.txt")));
 
-        cases.add(new TestCase("term: budget",
+        cases.add(new TestCase("content: budget",
                 QueryFactory.termQuery(c, "budget"),
                 Set.of("business_budget_forecast.txt", "business_customer_survey.txt",
                        "business_inventory_audit.txt", "business_marketing_plan.txt",
@@ -157,37 +157,37 @@ public class Tester {
                        "travel-lisbon-weekend.txt", "travel-morocco-markets.txt",
                        "travel-patagonia-trekking.txt", "travel-prague-old-town.txt")));
 
-        cases.add(new TestCase("term: unsubscribe",
+        cases.add(new TestCase("content: unsubscribe",
                 QueryFactory.termQuery(c, "unsubscribe"),
                 Set.of("EmailEventInvitation.txt", "EmailFeedbackRequest.txt",
                        "EmailInvoiceReminder.txt", "EmailMeetingRequest.txt",
                        "EmailWelcomeOnboarding.txt")));
 
         // Parola accentata: funziona così solo se l'analyzer non fa ASCII folding
-        cases.add(new TestCase("term: café",
+        cases.add(new TestCase("content: café",
                 QueryFactory.termQuery(c, "café"),
                 Set.of("unicode_café_résumé.txt")));
 
-        cases.add(new TestCase("term: identical",
+        cases.add(new TestCase("content: identical",
                 QueryFactory.termQuery(c, "identical"),
                 Set.of("duplicate_a.txt", "duplicate_b.txt")));
 
         // ---------- Phrase query ----------
-        cases.add(new TestCase("phrase: \"olive oil\"",
+        cases.add(new TestCase("content phrase: \"olive oil\"",
                 QueryFactory.phraseQuery(c, "olive", "oil"),
                 Set.of("recipe_apple_pie.txt", "recipe_banana_bread.txt",
                        "recipe_beef_stew.txt", "recipe_chocolate_cake.txt",
                        "recipe_greek_salad.txt", "recipe_lemon_pasta.txt",
                        "recipe_tomato_sauce.txt", "recipe_vegetable_soup.txt")));
 
-        cases.add(new TestCase("phrase: \"book club\"",
+        cases.add(new TestCase("content phrase: \"book club\"",
                 QueryFactory.phraseQuery(c, "book", "club"),
                 Set.of("2025-03-25_dracula.txt", "2025-07-06_the_hobbit.txt",
                        "2025-07-24_ulysses.txt", "2025-08-18_frankenstein.txt",
                        "2025-12-01_emma.txt", "2026-02-19_dune.txt",
                        "2026-08-13_walden.txt")));
 
-        cases.add(new TestCase("phrase: \"customer care\"",
+        cases.add(new TestCase("content phrase: \"customer care\"",
                 QueryFactory.phraseQuery(c, "customer", "care"),
                 Set.of("EmailContractRenewal.txt", "EmailEventInvitation.txt",
                        "EmailFeedbackRequest.txt", "EmailHolidaySchedule.txt",
@@ -195,12 +195,12 @@ public class Tester {
                        "EmailShippingDelay.txt", "EmailThankYouNote.txt",
                        "EmailWelcomeOnboarding.txt")));
 
-        cases.add(new TestCase("phrase: \"DOC 0007\"",
+        cases.add(new TestCase("content phrase: \"DOC 0007\"",
                 QueryFactory.phraseQuery(c, "doc", "0007"),
                 Set.of("recipe_mushroom_risotto.txt")));
 
         // ---------- Boolean query ----------
-        cases.add(new TestCase("bool: budget -meeting",
+        cases.add(new TestCase("content bool: budget -meeting",
                 QueryFactory.booleanQuery(List.of(
                         (new BooleanClause(QueryFactory.termQuery(c, "budget"), BooleanClause.Occur.MUST)),
                         (new BooleanClause(QueryFactory.termQuery(c, "meeting"), BooleanClause.Occur.MUST_NOT)))),
@@ -211,7 +211,7 @@ public class Tester {
                        "travel-morocco-markets.txt", "travel-patagonia-trekking.txt",
                        "travel-prague-old-town.txt")));
 
-        cases.add(new TestCase("bool: +soil +patience",
+        cases.add(new TestCase("content bool: +soil +patience",
                 QueryFactory.booleanQuery(List.of(
                         (new BooleanClause(QueryFactory.termQuery(c, "soil"), BooleanClause.Occur.MUST)),
                         (new BooleanClause(QueryFactory.termQuery(c, "patience"), BooleanClause.Occur.MUST)))),
@@ -219,7 +219,7 @@ public class Tester {
                        "Gardening - Succulent Care.txt", "Gardening - Tomato Growing.txt",
                        "Gardening - Winter Mulching.txt")));
 
-        cases.add(new TestCase("bool: +budget +data -travel",
+        cases.add(new TestCase("content bool: +budget +data -travel",
                 QueryFactory.booleanQuery(List.of(
                         (new BooleanClause(QueryFactory.termQuery(c, "budget"), BooleanClause.Occur.MUST)),
                         (new BooleanClause(QueryFactory.termQuery(c, "data"), BooleanClause.Occur.MUST)),
@@ -228,7 +228,7 @@ public class Tester {
                        "business_inventory_audit.txt", "business_marketing_plan.txt",
                        "business_product_roadmap.txt", "business_supplier_contract.txt")));
 
-        cases.add(new TestCase("bool: telescope OR nutmeg",
+        cases.add(new TestCase("content bool: telescope OR nutmeg",
                 QueryFactory.booleanQuery(List.of(
                         (new BooleanClause(QueryFactory.termQuery(c, "telescope"), BooleanClause.Occur.SHOULD)),
                         (new BooleanClause(QueryFactory.termQuery(c, "nutmeg"), BooleanClause.Occur.SHOULD)))),
@@ -239,7 +239,7 @@ public class Tester {
                        "recipe_lemon_pasta.txt", "recipe_mushroom_risotto.txt",
                        "recipe_tomato_sauce.txt")));
 
-        cases.add(new TestCase("bool: lemon OR banana OR apple",
+        cases.add(new TestCase("content bool: lemon OR banana OR apple",
                 QueryFactory.booleanQuery(List.of(
                         (new BooleanClause(QueryFactory.termQuery(c, "lemon"), BooleanClause.Occur.SHOULD)),
                         (new BooleanClause(QueryFactory.termQuery(c, "banana"), BooleanClause.Occur.SHOULD)),

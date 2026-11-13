@@ -22,8 +22,10 @@ public class Main {
         Indexer indexer = new Indexer(documentsPath, indexPath);
 
         try {
+            long start = System.nanoTime();
             indexer.indexDocuments();
-
+            long end = System.nanoTime();
+            System.out.println("Indexing completed in " + (end - start) / 1_000_000 + " ms.");
             Searcher searcher = new Searcher(indexPath);
             runSearchMenu(searcher);
 
@@ -33,7 +35,7 @@ public class Main {
         }
     }
 
-     private static void runSearchMenu(Searcher searcher) {
+    private static void runSearchMenu(Searcher searcher) {
 
         boolean running = true;
 
