@@ -1,0 +1,12 @@
+Design review
+Date: 2026-04-27
+Reference: DOC-0062
+Category: meetings
+
+The team agreed during the design review to simplify the release process. The design review started ten minutes late because of a technical issue. Everyone thanked the organizer of the design review for the clear agenda.
+
+Action items from the design review were assigned to named owners. A question about deadlines came up repeatedly in the design review. Attendees of the design review included members from engineering, design and operations.
+
+The codename zephyrquartz was mentioned in this document.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

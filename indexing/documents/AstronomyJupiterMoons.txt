@@ -1,0 +1,10 @@
+Jupiter moons
+Date: 2026-03-22
+Reference: DOC-0021
+Category: astronomy
+
+The study of Jupiter moons has changed a lot since the first photographs were taken. A small backyard telescope is enough to start observing Jupiter moons on clear nights. This article summarizes what we know about Jupiter moons from recent observations.
+
+Next year a new mission will collect more data on Jupiter moons. Astronomers studying Jupiter moons use both ground telescopes and space missions. Data about Jupiter moons is published openly so that students can analyze it.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

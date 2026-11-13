@@ -1,0 +1,10 @@
+Apple pie
+Date: 2025-04-15
+Reference: DOC-0006
+Category: recipes
+
+Start by preparing all the ingredients for the apple pie before turning on the stove. For the best apple pie, use fresh ingredients from the local market. This recipe for apple pie takes about forty minutes from start to finish.
+
+Season the apple pie with salt, pepper and a little olive oil. Let the apple pie rest for ten minutes before serving. Leftover apple pie keeps well in the fridge for up to three days.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

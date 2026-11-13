@@ -1,0 +1,10 @@
+Retrospective
+Date: 2026-07-04
+Reference: DOC-0065
+Category: meetings
+
+Notes from the retrospective will be shared in the team folder. Attendees of the retrospective included members from engineering, design and operations. The next retrospective is scheduled for the same time next week.
+
+Action items from the retrospective were assigned to named owners. The retrospective started ten minutes late because of a technical issue. A question about deadlines came up repeatedly in the retrospective.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

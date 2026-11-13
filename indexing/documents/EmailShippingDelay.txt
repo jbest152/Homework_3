@@ -1,0 +1,10 @@
+Shipping delay
+Date: 2026-07-16
+Reference: DOC-0073
+Category: emails
+
+Hello, this message is a short shipping delay for your records. If you have questions about this shipping delay, simply reply to this email. Kind regards from the customer care team who wrote the shipping delay.
+
+We are sending you this shipping delay because it requires your attention. Please note that this shipping delay was generated automatically. The shipping delay contains important dates that you should keep in mind.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

@@ -1,0 +1,10 @@
+Printing press
+Date: 2026-07-08
+Reference: DOC-0038
+Category: history
+
+Historians often point to the printing press as a turning point in human development. Museums across Europe display objects related to the printing press. The printing press shaped trade, politics and everyday life for generations.
+
+The legacy of the printing press can be seen in language, law and architecture. Archaeological evidence of the printing press is still being discovered today. Many modern cities still carry traces of the printing press.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

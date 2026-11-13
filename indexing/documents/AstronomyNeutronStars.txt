@@ -1,0 +1,10 @@
+Neutron stars
+Date: 2025-03-07
+Reference: DOC-0029
+Category: astronomy
+
+The distance involved in neutron stars is almost impossible to imagine. This article summarizes what we know about neutron stars from recent observations. Data about neutron stars is published openly so that students can analyze it.
+
+Next year a new mission will collect more data on neutron stars. Astronomers studying neutron stars use both ground telescopes and space missions. The study of neutron stars has changed a lot since the first photographs were taken.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

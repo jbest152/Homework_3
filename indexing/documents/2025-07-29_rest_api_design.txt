@@ -1,0 +1,10 @@
+REST API design
+Date: 2025-07-29
+Reference: DOC-0046
+Category: programming
+
+Code review is a great way to spread knowledge about REST API design in a team. When learning REST API design, start with a tiny project before reading the full documentation. A common bug related to REST API design is hard to reproduce and easy to overlook.
+
+Good tests make working with REST API design much less stressful. Always measure before optimizing anything related to REST API design. The official guide for REST API design is a good reference, but examples help more.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

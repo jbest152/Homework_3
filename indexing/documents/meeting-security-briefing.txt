@@ -1,0 +1,10 @@
+Security briefing
+Date: 2026-07-06
+Reference: DOC-0069
+Category: meetings
+
+The team agreed during the security briefing to simplify the release process. Action items from the security briefing were assigned to named owners. Everyone thanked the organizer of the security briefing for the clear agenda.
+
+Attendees of the security briefing included members from engineering, design and operations. The next security briefing is scheduled for the same time next week. Notes from the security briefing will be shared in the team folder.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

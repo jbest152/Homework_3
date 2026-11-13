@@ -1,0 +1,10 @@
+Supplier contract
+Date: 2025-12-18
+Reference: DOC-0053
+Category: business
+
+The budget impact of the supplier contract is described in the table below. Customers and partners were consulted while preparing the supplier contract. The supplier contract highlights three risks and four opportunities.
+
+Several departments contributed data to the supplier contract. Please send comments on the supplier contract to the project owner by Friday. The main conclusion of the supplier contract is that costs are stable while demand is growing.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

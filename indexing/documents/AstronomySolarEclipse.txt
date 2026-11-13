@@ -1,0 +1,10 @@
+Solar eclipse
+Date: 2025-01-20
+Reference: DOC-0024
+Category: astronomy
+
+Astronomers studying solar eclipse use both ground telescopes and space missions. The study of solar eclipse has changed a lot since the first photographs were taken. Scientists still debate several open questions about solar eclipse.
+
+Next year a new mission will collect more data on solar eclipse. This article summarizes what we know about solar eclipse from recent observations. A small backyard telescope is enough to start observing solar eclipse on clear nights.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

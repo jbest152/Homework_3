@@ -1,0 +1,13 @@
+Apache Lucene is a powerful search engine library written in Java.
+Lucene provides indexing and searching capabilities for text documents.
+The search engine can process thousands of documents efficiently.
+Indexing is the first step in building a search system.
+Searching allows users to retrieve relevant documents quickly.
+
+Lucene supports full-text search, phrase queries, fuzzy queries,
+Boolean queries, and wildcard queries.
+A search engine must analyze text before indexing it.
+Text analysis includes tokenization, normalization, and filtering.
+
+Search engines are commonly used in applications, websites,
+document management systems, and enterprise software.

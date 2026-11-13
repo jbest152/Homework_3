@@ -1,0 +1,10 @@
+Inventory audit
+Date: 2025-07-01
+Reference: DOC-0060
+Category: business
+
+The inventory audit highlights three risks and four opportunities. This document presents the inventory audit for the management team. The main conclusion of the inventory audit is that costs are stable while demand is growing.
+
+Several departments contributed data to the inventory audit. The budget impact of the inventory audit is described in the table below. A follow-up review of the inventory audit is planned for next quarter.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

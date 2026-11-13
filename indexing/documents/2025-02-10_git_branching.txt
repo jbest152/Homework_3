@@ -1,0 +1,12 @@
+Git branching
+Date: 2025-02-10
+Reference: DOC-0045
+Category: programming
+
+When learning Git branching, start with a tiny project before reading the full documentation. Good tests make working with Git branching much less stressful. Code review is a great way to spread knowledge about Git branching in a team.
+
+The performance impact of Git branching depends heavily on the size of the data. A common bug related to Git branching is hard to reproduce and easy to overlook. The official guide for Git branching is a good reference, but examples help more.
+
+The codename zephyrquartz was mentioned in this document.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

@@ -1,0 +1,10 @@
+Sprint planning
+Date: 2025-11-18
+Reference: DOC-0067
+Category: meetings
+
+The next sprint planning is scheduled for the same time next week. A question about deadlines came up repeatedly in the sprint planning. Everyone thanked the organizer of the sprint planning for the clear agenda.
+
+Attendees of the sprint planning included members from engineering, design and operations. The team agreed during the sprint planning to simplify the release process. Action items from the sprint planning were assigned to named owners.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

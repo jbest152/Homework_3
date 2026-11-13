@@ -1,0 +1,13 @@
+Distributed Search Systems
+
+A distributed search system allows multiple servers to process search requests.
+Large organizations often store millions of documents across different machines.
+
+Distributed indexing improves scalability and processing speed.
+Each server can maintain a separate index containing a subset of documents.
+Search requests are distributed across multiple nodes.
+
+The final results are collected, merged, and ranked according to relevance.
+Distributed search engines must handle network failures and unavailable servers.
+
+Apache Lucene can be used as the foundation for distributed search platforms.

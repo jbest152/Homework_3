@@ -1,0 +1,10 @@
+Python decorators
+Date: 2026-07-24
+Reference: DOC-0041
+Category: programming
+
+The official guide for Python decorators is a good reference, but examples help more. When learning Python decorators, start with a tiny project before reading the full documentation. Always measure before optimizing anything related to Python decorators.
+
+A common bug related to Python decorators is hard to reproduce and easy to overlook. Code review is a great way to spread knowledge about Python decorators in a team. These notes explain Python decorators with short examples and common mistakes.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

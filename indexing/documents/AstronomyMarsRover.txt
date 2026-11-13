@@ -1,0 +1,10 @@
+Mars rover
+Date: 2026-01-18
+Reference: DOC-0023
+Category: astronomy
+
+The study of Mars rover has changed a lot since the first photographs were taken. Data about Mars rover is published openly so that students can analyze it. Scientists still debate several open questions about Mars rover.
+
+This article summarizes what we know about Mars rover from recent observations. Next year a new mission will collect more data on Mars rover. Astronomers studying Mars rover use both ground telescopes and space missions.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

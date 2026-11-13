@@ -1,0 +1,10 @@
+Hiring strategy
+Date: 2026-03-14
+Reference: DOC-0056
+Category: business
+
+This document presents the hiring strategy for the management team. Please send comments on the hiring strategy to the project owner by Friday. The hiring strategy highlights three risks and four opportunities.
+
+The main conclusion of the hiring strategy is that costs are stable while demand is growing. Customers and partners were consulted while preparing the hiring strategy. A follow-up review of the hiring strategy is planned for next quarter.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

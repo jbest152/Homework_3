@@ -1,0 +1,13 @@
+Programming Language Comparison
+
+Java is widely used for enterprise applications and backend development.
+Python is popular for automation, machine learning, and data analysis.
+JavaScript is commonly used for interactive web applications.
+C++ provides low-level memory management and high performance.
+
+Java supports object-oriented programming and automatic garbage collection.
+Python offers a simple syntax and an extensive ecosystem of libraries.
+JavaScript can execute in browsers and server environments.
+
+Each programming language has different advantages and limitations.
+Software developers select languages according to project requirements.

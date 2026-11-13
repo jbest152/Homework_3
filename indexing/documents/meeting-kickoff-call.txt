@@ -1,0 +1,10 @@
+Kickoff call
+Date: 2025-03-13
+Reference: DOC-0064
+Category: meetings
+
+A question about deadlines came up repeatedly in the kickoff call. Action items from the kickoff call were assigned to named owners. Notes from the kickoff call will be shared in the team folder.
+
+Everyone thanked the organizer of the kickoff call for the clear agenda. The team agreed during the kickoff call to simplify the release process. The next kickoff call is scheduled for the same time next week.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

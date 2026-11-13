@@ -1,0 +1,10 @@
+Budget forecast
+Date: 2025-04-20
+Reference: DOC-0052
+Category: business
+
+Several departments contributed data to the budget forecast. Please send comments on the budget forecast to the project owner by Friday. The budget forecast highlights three risks and four opportunities.
+
+A follow-up review of the budget forecast is planned for next quarter. The main conclusion of the budget forecast is that costs are stable while demand is growing. Customers and partners were consulted while preparing the budget forecast.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

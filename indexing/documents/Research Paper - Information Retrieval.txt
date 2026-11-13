@@ -1,0 +1,12 @@
+Information Retrieval Research
+
+Information retrieval is the process of finding relevant information from large collections of documents.
+
+Modern search engines use sophisticated ranking algorithms.
+BM25 is a popular ranking function used in information retrieval.
+It considers term frequency, document length, and inverse document frequency.
+
+Document relevance is essential for providing useful search results.
+An effective search system should minimize irrelevant results.
+
+Recent research explores semantic search and vector representations.

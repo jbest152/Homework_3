@@ -1,0 +1,25 @@
+E-Commerce Product Catalog
+
+Product ID: ELEC-2045
+Product Name: Wireless Mechanical Keyboard
+Category: Electronics
+Price: 79.99 USD
+Brand: KeyMaster
+Availability: In Stock
+
+Product ID: ELEC-2046
+Product Name: Optical Gaming Mouse
+Category: Electronics
+Price: 49.99 USD
+Brand: GameTech
+Availability: In Stock
+
+Product ID: ELEC-2047
+Product Name: UltraWide Monitor
+Category: Computer Displays
+Price: 329.90 USD
+Brand: VisionPro
+Availability: Out of Stock
+
+The product catalog contains electronic devices and computer accessories.
+Customers can search products by name, category, brand, and price.

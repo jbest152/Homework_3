@@ -1,0 +1,11 @@
+Database Management Systems
+
+A database management system stores and organizes structured information.
+Relational databases use tables, rows, and columns.
+Each table contains records with specific attributes.
+
+SQL is commonly used to retrieve and manipulate database records.
+Indexes improve query execution speed.
+Transactions ensure data consistency and reliability.
+
+Popular database systems include PostgreSQL, MySQL, Oracle Database, and Microsoft SQL Server.

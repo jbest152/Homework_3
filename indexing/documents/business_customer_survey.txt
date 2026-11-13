@@ -1,0 +1,10 @@
+Customer survey
+Date: 2025-12-08
+Reference: DOC-0055
+Category: business
+
+Several departments contributed data to the customer survey. Customers and partners were consulted while preparing the customer survey. Please send comments on the customer survey to the project owner by Friday.
+
+The main conclusion of the customer survey is that costs are stable while demand is growing. The budget impact of the customer survey is described in the table below. The customer survey highlights three risks and four opportunities.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

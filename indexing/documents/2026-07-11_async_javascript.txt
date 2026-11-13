@@ -1,0 +1,10 @@
+Async JavaScript
+Date: 2026-07-11
+Reference: DOC-0050
+Category: programming
+
+The performance impact of async JavaScript depends heavily on the size of the data. The official guide for async JavaScript is a good reference, but examples help more. Code review is a great way to spread knowledge about async JavaScript in a team.
+
+Always measure before optimizing anything related to async JavaScript. These notes explain async JavaScript with short examples and common mistakes. A common bug related to async JavaScript is hard to reproduce and easy to overlook.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

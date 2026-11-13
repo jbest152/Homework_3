@@ -1,0 +1,13 @@
+Cloud Storage Architecture
+
+Cloud storage platforms allow users to store and retrieve digital documents.
+Files can be distributed across multiple storage nodes.
+
+Modern storage systems provide replication and automatic recovery.
+Replication creates multiple copies of important data.
+Automatic recovery helps maintain service availability.
+
+Search engines can index metadata and document contents.
+Users can search files by filename, extension, creation date, and keywords.
+
+Cloud-based indexing systems must support scalability and fault tolerance.

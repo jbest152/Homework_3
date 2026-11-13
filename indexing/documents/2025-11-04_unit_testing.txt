@@ -1,0 +1,10 @@
+Unit testing
+Date: 2025-11-04
+Reference: DOC-0047
+Category: programming
+
+The official guide for unit testing is a good reference, but examples help more. A common bug related to unit testing is hard to reproduce and easy to overlook. These notes explain unit testing with short examples and common mistakes.
+
+Code review is a great way to spread knowledge about unit testing in a team. Good tests make working with unit testing much less stressful. Always measure before optimizing anything related to unit testing.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

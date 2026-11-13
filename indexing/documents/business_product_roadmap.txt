@@ -1,0 +1,10 @@
+Product roadmap
+Date: 2026-08-20
+Reference: DOC-0057
+Category: business
+
+Several departments contributed data to the product roadmap. The budget impact of the product roadmap is described in the table below. The main conclusion of the product roadmap is that costs are stable while demand is growing.
+
+This document presents the product roadmap for the management team. Please send comments on the product roadmap to the project owner by Friday. Customers and partners were consulted while preparing the product roadmap.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

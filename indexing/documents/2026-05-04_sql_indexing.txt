@@ -1,0 +1,10 @@
+SQL indexing
+Date: 2026-05-04
+Reference: DOC-0043
+Category: programming
+
+A common bug related to SQL indexing is hard to reproduce and easy to overlook. These notes explain SQL indexing with short examples and common mistakes. The performance impact of SQL indexing depends heavily on the size of the data.
+
+Always measure before optimizing anything related to SQL indexing. When learning SQL indexing, start with a tiny project before reading the full documentation. Code review is a great way to spread knowledge about SQL indexing in a team.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

@@ -1,0 +1,10 @@
+Client workshop
+Date: 2025-07-14
+Reference: DOC-0068
+Category: meetings
+
+A question about deadlines came up repeatedly in the client workshop. Attendees of the client workshop included members from engineering, design and operations. Notes from the client workshop will be shared in the team folder.
+
+The team agreed during the client workshop to simplify the release process. The next client workshop is scheduled for the same time next week. Action items from the client workshop were assigned to named owners.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

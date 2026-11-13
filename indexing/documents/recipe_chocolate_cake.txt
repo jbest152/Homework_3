@@ -1,0 +1,10 @@
+Chocolate cake
+Date: 2025-07-16
+Reference: DOC-0009
+Category: recipes
+
+Start by preparing all the ingredients for the chocolate cake before turning on the stove. This recipe for chocolate cake takes about forty minutes from start to finish. My grandmother always added a pinch of nutmeg to her chocolate cake.
+
+Serve the chocolate cake warm with a side of crusty bread and a glass of water. Season the chocolate cake with salt, pepper and a little olive oil. Leftover chocolate cake keeps well in the fridge for up to three days.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

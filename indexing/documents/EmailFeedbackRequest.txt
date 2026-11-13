@@ -1,0 +1,10 @@
+Feedback request
+Date: 2025-09-08
+Reference: DOC-0077
+Category: emails
+
+You can unsubscribe from similar messages such as this feedback request at any time. Thank you for your patience while we handle this feedback request. Hello, this message is a short feedback request for your records.
+
+Please note that this feedback request was generated automatically. Kind regards from the customer care team who wrote the feedback request. If you have questions about this feedback request, simply reply to this email.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

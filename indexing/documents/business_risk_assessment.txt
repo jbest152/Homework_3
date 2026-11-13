@@ -1,0 +1,10 @@
+Risk assessment
+Date: 2025-02-10
+Reference: DOC-0058
+Category: business
+
+Customers and partners were consulted while preparing the risk assessment. The main conclusion of the risk assessment is that costs are stable while demand is growing. Please send comments on the risk assessment to the project owner by Friday.
+
+The risk assessment highlights three risks and four opportunities. This document presents the risk assessment for the management team. A follow-up review of the risk assessment is planned for next quarter.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

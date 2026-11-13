@@ -1,0 +1,10 @@
+Weekly standup
+Date: 2025-09-12
+Reference: DOC-0061
+Category: meetings
+
+A question about deadlines came up repeatedly in the weekly standup. The weekly standup started ten minutes late because of a technical issue. Notes from the weekly standup will be shared in the team folder.
+
+Attendees of the weekly standup included members from engineering, design and operations. The team agreed during the weekly standup to simplify the release process. Everyone thanked the organizer of the weekly standup for the clear agenda.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

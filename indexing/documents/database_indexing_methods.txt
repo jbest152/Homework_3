@@ -1,0 +1,13 @@
+Database Indexing Methods
+
+Database indexing improves the speed of data retrieval.
+An index allows a database engine to locate records without scanning every row.
+
+B-tree indexes are commonly used for structured database queries.
+Hash indexes provide efficient equality lookups.
+Full-text indexes are designed for searching textual information.
+
+Index creation requires additional storage space.
+Frequent updates may increase indexing overhead.
+
+Database administrators must balance query performance and storage consumption.

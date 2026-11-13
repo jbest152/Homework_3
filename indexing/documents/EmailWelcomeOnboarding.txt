@@ -1,0 +1,10 @@
+Welcome onboarding
+Date: 2026-03-07
+Reference: DOC-0072
+Category: emails
+
+Kind regards from the customer care team who wrote the welcome onboarding. The welcome onboarding contains important dates that you should keep in mind. You can unsubscribe from similar messages such as this welcome onboarding at any time.
+
+We are sending you this welcome onboarding because it requires your attention. If you have questions about this welcome onboarding, simply reply to this email. Thank you for your patience while we handle this welcome onboarding.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

@@ -1,0 +1,10 @@
+Dune
+Date: 2026-02-19
+Reference: DOC-0091
+Category: books
+
+Critics have written long essays about the themes in Dune. A book club discussion on Dune lasted nearly three hours. Reading Dune slowly is more rewarding than rushing to the ending.
+
+The characters in Dune feel real, even when the setting is unusual. My review of Dune starts with the first chapter, which pulls the reader in. The language of Dune can be demanding but it is full of memorable passages.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

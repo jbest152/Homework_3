@@ -1,0 +1,10 @@
+Exoplanet transit
+Date: 2026-06-25
+Reference: DOC-0027
+Category: astronomy
+
+Scientists still debate several open questions about exoplanet transit. Astronomers studying exoplanet transit use both ground telescopes and space missions. Data about exoplanet transit is published openly so that students can analyze it.
+
+Next year a new mission will collect more data on exoplanet transit. The study of exoplanet transit has changed a lot since the first photographs were taken. The distance involved in exoplanet transit is almost impossible to imagine.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

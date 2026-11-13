@@ -2,6 +2,8 @@ package com.indexing.lucene;
 
 import java.io.IOException;
 import java.nio.file.Path;
+import java.util.LinkedHashSet;
+import java.util.Set;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
@@ -48,6 +50,24 @@ public class Searcher {
                 }
                 System.out.println("Score: " + scoreDoc.score);
             }
+        }
+    }
+
+    public Set<String> searchFileNames(Query query) throws IOException {
+        try (Directory directory = FSDirectory.open(indexPath);
+             DirectoryReader reader = DirectoryReader.open(directory)) {
+
+            IndexSearcher searcher = new IndexSearcher(reader);
+
+            int limit = Math.max(1, reader.maxDoc());
+            TopDocs results = searcher.search(query, limit);
+
+            Set<String> names = new LinkedHashSet<>();
+            for (ScoreDoc scoreDoc : results.scoreDocs) {
+                Document document = searcher.storedFields().document(scoreDoc.doc);
+                names.add(document.get(IndexFields.FILE_NAME));
+            }
+            return names;
         }
     }
 }

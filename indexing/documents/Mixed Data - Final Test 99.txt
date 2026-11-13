@@ -1,0 +1,28 @@
+Mixed Data Search Test
+
+Reference: TEST-99
+Author: John Smith
+Department: Software Engineering
+Creation Date: 2026-11-11
+
+This document contains different types of information for search engine testing.
+
+Keywords:
+Lucene, Java, Indexing, Search, Database, Analytics, Programming.
+
+Special Characters:
+@ # $ % & * + - / = ?
+
+Numbers:
+123456789
+3.141592
+2026
+0000456
+
+Repeated Terms:
+Search search SEARCH searching.
+Index index INDEX indexing.
+Database database DATABASE databases.
+
+The purpose of this document is to evaluate text analysis,
+tokenization, normalization, and search relevance.

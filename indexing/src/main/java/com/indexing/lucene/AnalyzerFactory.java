@@ -21,6 +21,7 @@ public class AnalyzerFactory {
                 .withTokenizer(StandardTokenizerFactory.NAME)
                 .addTokenFilter("wordDelimiterGraph")
                 .addTokenFilter("lowercase")
+                .addTokenFilter("porterStem")
                 .addTokenFilter(StopFilterFactory.NAME, 
                     "ignoreCase", "false",
                     "words", "stopwords.txt",

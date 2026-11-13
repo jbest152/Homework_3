@@ -1,0 +1,12 @@
+Advanced Java Programming
+
+Java provides several features for building scalable applications.
+Object-oriented programming is based on classes and objects.
+Inheritance allows classes to reuse existing functionality.
+
+Interfaces define contracts between software components.
+Generics provide type safety during compilation.
+Streams simplify operations on collections.
+
+Multithreading allows multiple tasks to execute concurrently.
+Proper synchronization prevents race conditions.

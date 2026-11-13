@@ -1,0 +1,22 @@
+Scientific Research Archive
+
+Research ID: SCI-001
+Title: Machine Learning in Medical Imaging
+Year: 2022
+Author: Daniel Anderson
+Keywords: artificial intelligence, healthcare, image recognition
+
+Research ID: SCI-002
+Title: Efficient Information Retrieval Algorithms
+Year: 2023
+Author: Sarah Mitchell
+Keywords: Lucene, indexing, search optimization
+
+Research ID: SCI-003
+Title: Natural Language Understanding
+Year: 2024
+Author: Robert Wilson
+Keywords: NLP, language models, semantic analysis
+
+Scientific archives require efficient indexing and retrieval mechanisms.
+Researchers frequently search documents using authors, dates, titles, and keywords.

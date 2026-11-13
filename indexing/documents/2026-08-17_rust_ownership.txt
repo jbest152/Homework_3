@@ -1,0 +1,10 @@
+Rust ownership
+Date: 2026-08-17
+Reference: DOC-0042
+Category: programming
+
+These notes explain Rust ownership with short examples and common mistakes. Code review is a great way to spread knowledge about Rust ownership in a team. A common bug related to Rust ownership is hard to reproduce and easy to overlook.
+
+The official guide for Rust ownership is a good reference, but examples help more. The performance impact of Rust ownership depends heavily on the size of the data. Always measure before optimizing anything related to Rust ownership.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

@@ -1,0 +1,13 @@
+Natural Language Processing
+
+Natural Language Processing enables computers to analyze human language.
+NLP systems can identify words, sentences, entities, and semantic relationships.
+
+Tokenization divides text into smaller units called tokens.
+Stemming reduces words to their root forms.
+Lemmatization identifies the dictionary form of a word.
+
+For example, running, runs, and ran may be associated with the same concept.
+Stop words such as the, is, and a are frequently removed during text analysis.
+
+Natural language processing is widely used in search engines and chatbots.

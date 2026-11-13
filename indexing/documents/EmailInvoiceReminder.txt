@@ -1,0 +1,10 @@
+Invoice reminder
+Date: 2026-02-23
+Reference: DOC-0071
+Category: emails
+
+The invoice reminder contains important dates that you should keep in mind. Please note that this invoice reminder was generated automatically. You can unsubscribe from similar messages such as this invoice reminder at any time.
+
+If you have questions about this invoice reminder, simply reply to this email. We are sending you this invoice reminder because it requires your attention. Hello, this message is a short invoice reminder for your records.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

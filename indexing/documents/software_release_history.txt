@@ -1,0 +1,18 @@
+Software Release History
+
+Version 1.0.0 - January 12, 2023
+Initial release with basic document indexing capabilities.
+
+Version 1.5.0 - June 18, 2023
+Added support for Boolean queries and phrase matching.
+
+Version 2.0.0 - February 05, 2024
+Introduced configurable analyzers and improved query processing.
+
+Version 2.5.0 - September 21, 2024
+Improved indexing performance and memory management.
+
+Version 3.0.0 - April 14, 2025
+Introduced advanced ranking algorithms and custom scoring.
+
+The development team continues to improve search accuracy and performance.

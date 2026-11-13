@@ -1,0 +1,1 @@
+This content is exactly identical in two different files to test duplicate handling.

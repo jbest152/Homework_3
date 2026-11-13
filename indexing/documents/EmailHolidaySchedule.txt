@@ -1,0 +1,10 @@
+Holiday schedule
+Date: 2025-08-29
+Reference: DOC-0076
+Category: emails
+
+Thank you for your patience while we handle this holiday schedule. We are sending you this holiday schedule because it requires your attention. Kind regards from the customer care team who wrote the holiday schedule.
+
+The holiday schedule contains important dates that you should keep in mind. Hello, this message is a short holiday schedule for your records. Please note that this holiday schedule was generated automatically.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

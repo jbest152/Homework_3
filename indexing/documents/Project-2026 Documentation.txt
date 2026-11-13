@@ -1,0 +1,15 @@
+Project Documentation - 2026
+
+Project Name: SearchCore
+Version: 4.2.1
+Development Status: Active
+Programming Language: Java
+
+SearchCore is an experimental document retrieval application.
+The application uses Apache Lucene to index and search text files.
+
+The indexing process extracts document content and metadata.
+Each document receives a unique identifier.
+Users can search documents using keywords, phrases, and advanced queries.
+
+The next release will introduce improved filtering capabilities.

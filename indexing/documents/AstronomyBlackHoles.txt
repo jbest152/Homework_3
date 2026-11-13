@@ -1,0 +1,10 @@
+Black holes
+Date: 2025-04-19
+Reference: DOC-0022
+Category: astronomy
+
+Data about black holes is published openly so that students can analyze it. Scientists still debate several open questions about black holes. The distance involved in black holes is almost impossible to imagine.
+
+Next year a new mission will collect more data on black holes. Astronomers studying black holes use both ground telescopes and space missions. This article summarizes what we know about black holes from recent observations.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

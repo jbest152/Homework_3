@@ -1,0 +1,10 @@
+Memory leaks
+Date: 2026-07-31
+Reference: DOC-0048
+Category: programming
+
+When learning memory leaks, start with a tiny project before reading the full documentation. These notes explain memory leaks with short examples and common mistakes. The performance impact of memory leaks depends heavily on the size of the data.
+
+The official guide for memory leaks is a good reference, but examples help more. A common bug related to memory leaks is hard to reproduce and easy to overlook. Always measure before optimizing anything related to memory leaks.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

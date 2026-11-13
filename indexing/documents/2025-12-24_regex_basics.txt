@@ -1,0 +1,10 @@
+Regex basics
+Date: 2025-12-24
+Reference: DOC-0049
+Category: programming
+
+When learning regex basics, start with a tiny project before reading the full documentation. The official guide for regex basics is a good reference, but examples help more. A common bug related to regex basics is hard to reproduce and easy to overlook.
+
+Code review is a great way to spread knowledge about regex basics in a team. Always measure before optimizing anything related to regex basics. Good tests make working with regex basics much less stressful.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

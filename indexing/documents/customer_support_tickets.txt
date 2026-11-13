@@ -1,0 +1,30 @@
+Customer Support Tickets
+
+Ticket ID: TCK-5001
+Customer: Alice Johnson
+Date: 2025-02-10
+Priority: High
+Status: Open
+
+Description:
+The customer cannot access the search dashboard.
+The application displays an authentication error after login.
+
+Ticket ID: TCK-5002
+Customer: Michael Brown
+Date: 2025-02-12
+Priority: Medium
+Status: Resolved
+
+Description:
+Search results were not sorted correctly.
+The relevance score was calculated using an incorrect configuration.
+
+Ticket ID: TCK-5003
+Customer: Emily Davis
+Date: 2025-02-15
+Priority: Low
+Status: Open
+
+Description:
+The customer requested additional filters for document categories.

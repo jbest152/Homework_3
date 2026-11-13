@@ -1,0 +1,13 @@
+Server Application Log
+
+2026-01-10 08:15:32 INFO Application started successfully.
+2026-01-10 08:16:10 INFO Database connection established.
+2026-01-10 08:18:45 WARNING High memory consumption detected.
+2026-01-10 08:20:12 ERROR Failed to process request ID 78452.
+2026-01-10 08:21:03 INFO Request processing resumed.
+
+Server: NODE-01
+Environment: Production
+Operating System: Linux
+
+The monitoring system tracks CPU usage, memory consumption, and network traffic.

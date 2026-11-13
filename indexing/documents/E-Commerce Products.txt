@@ -1,0 +1,19 @@
+Electronic Products Catalog
+
+Product: Smart Watch X500
+SKU: WATCH-500
+Price: 199.99 USD
+Category: Wearable Technology
+
+Product: Portable SSD 2TB
+SKU: SSD-2000
+Price: 149.50 USD
+Category: Storage Devices
+
+Product: Wireless Headphones Pro
+SKU: AUDIO-300
+Price: 89.99 USD
+Category: Audio Equipment
+
+Product availability changes depending on warehouse inventory.
+Customers can search products by name, category, price, and SKU.

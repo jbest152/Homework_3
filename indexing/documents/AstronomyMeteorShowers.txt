@@ -1,0 +1,10 @@
+Meteor showers
+Date: 2025-08-14
+Reference: DOC-0030
+Category: astronomy
+
+This article summarizes what we know about meteor showers from recent observations. Next year a new mission will collect more data on meteor showers. The distance involved in meteor showers is almost impossible to imagine.
+
+Scientists still debate several open questions about meteor showers. Astronomers studying meteor showers use both ground telescopes and space missions. Data about meteor showers is published openly so that students can analyze it.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

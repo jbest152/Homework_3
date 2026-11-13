@@ -1,0 +1,10 @@
+Event invitation
+Date: 2026-08-13
+Reference: DOC-0078
+Category: emails
+
+Please note that this event invitation was generated automatically. The event invitation contains important dates that you should keep in mind. Kind regards from the customer care team who wrote the event invitation.
+
+You can unsubscribe from similar messages such as this event invitation at any time. Thank you for your patience while we handle this event invitation. We are sending you this event invitation because it requires your attention.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

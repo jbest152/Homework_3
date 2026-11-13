@@ -1,0 +1,1 @@
+MiXeD CaSe ConTenT: Searching for mixedcase should find this regardless of letter case.

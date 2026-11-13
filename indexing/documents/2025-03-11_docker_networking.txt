@@ -1,0 +1,10 @@
+Docker networking
+Date: 2025-03-11
+Reference: DOC-0044
+Category: programming
+
+Good tests make working with Docker networking much less stressful. The official guide for Docker networking is a good reference, but examples help more. These notes explain Docker networking with short examples and common mistakes.
+
+The performance impact of Docker networking depends heavily on the size of the data. When learning Docker networking, start with a tiny project before reading the full documentation. A common bug related to Docker networking is hard to reproduce and easy to overlook.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

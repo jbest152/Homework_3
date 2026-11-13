@@ -1,0 +1,10 @@
+Team offsite
+Date: 2025-11-18
+Reference: DOC-0070
+Category: meetings
+
+The team offsite started ten minutes late because of a technical issue. Notes from the team offsite will be shared in the team folder. Action items from the team offsite were assigned to named owners.
+
+A question about deadlines came up repeatedly in the team offsite. The next team offsite is scheduled for the same time next week. The team agreed during the team offsite to simplify the release process.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.

@@ -1,0 +1,10 @@
+Budget meeting
+Date: 2025-08-17
+Reference: DOC-0063
+Category: meetings
+
+Attendees of the budget meeting included members from engineering, design and operations. Notes from the budget meeting will be shared in the team folder. The budget meeting started ten minutes late because of a technical issue.
+
+The team agreed during the budget meeting to simplify the release process. Action items from the budget meeting were assigned to named owners. The next budget meeting is scheduled for the same time next week.
+
+This file is part of a synthetic test corpus. It was generated to help test a text indexing program. Any resemblance to real documents is purely coincidental.
